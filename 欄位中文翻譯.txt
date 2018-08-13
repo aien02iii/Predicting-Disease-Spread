@@ -1,0 +1,35 @@
+總共24個欄位
+
+city                            - 城市縮寫
+year                            - 年
+weekofyear                      - 週
+week_start_date                 - 日期
+station_max_temp_c              - 最高溫度
+station_min_temp_c              - 最低溫度       ***
+station_avg_temp_c              - 平均溫度       ***
+station_precip_mm               - 總降水量
+station_diur_temp_rng_c         - 晝夜溫度範圍
+precipitation_amt_mm            - 總降水量
+reanalysis_sat_precip_amt_mm    - 總降水量
+reanalysis_dew_point_temp_k     - 平均露點溫度    ***
+reanalysis_air_temp_k           - 平均氣溫        ***
+reanalysis_relative_humidity_percent  - 平均相對濕度
+reanalysis_specific_humidity_g_per_kg - 平均比濕度    ***
+reanalysis_precip_amt_kg_per_m2 - 總降水量
+reanalysis_max_air_temp_k       - 最高氣溫
+reanalysis_min_air_temp_k       - 最低氣溫      ***
+reanalysis_avg_temp_k           - 平均氣溫
+reanalysis_tdtr_k               - 晝夜溫度範圍
+ndvi_se - 城市中心東南部的像素
+ndvi_sw - 城市中心西南方向的像素
+ndvi_ne - 城市中心東北部的像素
+ndvi_nw - 像素位於城市中心的西北部
+
+
+
+與 [環境、氣候、溫度、雨量、人口、住宅密度] 有絕對的關係
+製造的污染與垃圾，除了造成環境破壞與負擔之外，垃圾、人工容器疏於管理，就成為斑蚊最佳的繁殖孳生源
+
+聖嬰現象南方震盪指數  海面溫度
+
+
